@@ -1,7 +1,7 @@
 # Digital Whiteboarding
 
 ## Talk Resources
-* [Slides](https://www.canva.com/design/DAFyNqCxtF8/9OPmDZ_WT5KHQTzMpdJlMw/view?utm_content=DAFyNqCxtF8&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+* [Slides](https://www.canva.com/design/DAFyNqCxtF8/U9YWWhf-seYzmveAvXqmEA/edit)
 * [Learn Miro basics with new template pack](https://miro.com/blog/learn-miro-basics-template-pack/)
 * [How to onboard first-time Miro users before a workshop](https://miro.com/blog/onboard-first-time-miro-users/)
 * [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236)
