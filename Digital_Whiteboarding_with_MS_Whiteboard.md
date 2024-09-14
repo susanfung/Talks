@@ -6,6 +6,7 @@
 * [Guides to Microsoft Whiteboard](https://support.microsoft.com/en-us/office/guides-to-microsoft-whiteboard-760de443-a178-4be7-bfe1-b3ffb29f7b48)
 * [Tips and Tricks for Microsoft Whiteboard](https://support.microsoft.com/en-us/office/tips-and-tricks-for-microsoft-whiteboard-eba14325-51f2-41d1-8cec-ff8cb56d31b1)
 * [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236)
+* [How to take screenshots on Windows 11](https://www.microsoft.com/en-us/windows/learning-center/how-to-screenshot-windows-11)
 
 ## References
 * [Whiteboarding for Developers: Yes, You Have To](https://developer.okta.com/blog/2020/05/13/whiteboarding-for-developers)
