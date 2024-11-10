@@ -1,4 +1,4 @@
-# From Terra-fied to Terra-firm: A Mob's Quest to Conquer Terraform
+# From Solo Struggle to Team Triumph: Harnessing New Tech As A Mob
 
 ## Talk Resources
 * [Slides](https://www.canva.com/design/DAGTekfDxOg/qepIO6eoUKd-e52fNAKjkw/edit)
