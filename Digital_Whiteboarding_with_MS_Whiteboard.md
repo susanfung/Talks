@@ -2,6 +2,7 @@
 
 ## Talk Resources
 * [Slides](https://www.canva.com/design/DAGOyqvNtO8/zuqu2C8MTZ0MR00n4jTYdQ/edit?utm_content=DAGOyqvNtO8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* [Demo](https://youtu.be/huKG7ScE8Dc)
 * [Introduction to Microsoft Whiteboard](https://learn.microsoft.com/en-us/microsoft-365/whiteboard/?view=o365-worldwide)
 * [Guides to Microsoft Whiteboard](https://support.microsoft.com/en-us/office/guides-to-microsoft-whiteboard-760de443-a178-4be7-bfe1-b3ffb29f7b48)
 * [Tips and Tricks for Microsoft Whiteboard](https://support.microsoft.com/en-us/office/tips-and-tricks-for-microsoft-whiteboard-eba14325-51f2-41d1-8cec-ff8cb56d31b1)
