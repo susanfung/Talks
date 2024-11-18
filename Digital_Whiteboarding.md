@@ -2,6 +2,7 @@
 
 ## Talk Resources
 * [Slides](https://www.canva.com/design/DAFyNqCxtF8/U9YWWhf-seYzmveAvXqmEA/edit)
+* [Demo](https://www.youtube.com/watch?v=7_oXpRYvjBI)
 * [Learn Miro basics with new template pack](https://miro.com/blog/learn-miro-basics-template-pack/)
 * [How to onboard first-time Miro users before a workshop](https://miro.com/blog/onboard-first-time-miro-users/)
 * [Mac keyboard shortcuts](https://support.apple.com/en-us/HT201236)
